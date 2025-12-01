@@ -17,3 +17,6 @@
 # Authoring
 ## Preview jupyter notebook
 `quarto preview hello.ipynb`
+
+# Run Shiny
+`shiny run --reload dashboard.py`
